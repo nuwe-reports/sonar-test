@@ -3,4 +3,3 @@ const test = () => {
 };
 
 test();
-test();
